@@ -249,7 +249,7 @@ header img {
 }
 
 .info .gear {
-    font-size: 1rem;
+    font-size: .5rem;
     color: white;
 }
 
@@ -262,7 +262,7 @@ header img {
 }
 
 .media .social {
-    font-size: 1rem;
+    font-size: .5rem;
     color: white;
 }
 
@@ -275,7 +275,7 @@ header img {
 }
 
 .clients .names {
-    font-size: 1rem;
+    font-size: .5rem;
     color: white;
 }
 
