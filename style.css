@@ -294,7 +294,8 @@ form h1 {
 }
 
 form input {
-    width: 18rem;
+    width: 30rem;
+    margin: 1rem;
     border: none;
     background: #222;
     color: white;
