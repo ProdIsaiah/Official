@@ -282,7 +282,7 @@ header img {
 
 form {
     width: 100%;
-    height: 40rem;
+    height: 50rem;
     margin-top: 10rem;
     text-align: center;
 }
@@ -294,7 +294,6 @@ form h1 {
 }
 
 form input {
-    margin: .5rem;
     width: 18rem;
     border: none;
     background: #222;
@@ -304,15 +303,15 @@ form input {
 }
 
 form textarea {
-    margin-top: 1rem;
     font-family: 'Poppins', sans-serif;
-    width: 37rem;
+    width: 30rem;
     height: 20rem;
     border: none;
     background: #222;
     color: white;
     resize: none;
     padding: 1.5rem;
+    margin: 15px;
 }
 
 form .btn {
