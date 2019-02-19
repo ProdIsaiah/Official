@@ -242,10 +242,8 @@ header img {
 
 .info {
     width: 50%;
-    height: 10rem;
-    position: absolute;
-    top: 0;
-    left: 0;
+    height: 5rem;
+    padding: 3rem;
 }
 
 .info .gear {
@@ -255,10 +253,8 @@ header img {
 
 .media {
     width: 50%;
-    height: 10rem;
-    position: absolute;
-    right: 0;
-    top: 0;
+    height: 5rem;
+    padding: 3rem;
 }
 
 .media .social {
@@ -268,10 +264,8 @@ header img {
 
 .clients {
     width: 50%;
-    height: 10rem;
-    position: absolute;
-    left: 0;
-    bottom: 0;
+    height: 5rem;
+    padding: 3rem;
 }
 
 .clients .names {
@@ -283,7 +277,7 @@ header img {
     background: #222;
     height: 20rem;
     position: relative;
-    margin-top: 10rem;
+    margin-top: 6rem;
 }
 
 
