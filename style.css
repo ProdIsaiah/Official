@@ -241,39 +241,49 @@ header img {
 }
 
 .info {
-    width: 100%;
-    height: 15rem;
-    margin-top: 10rem;
+    width: 50%;
+    height: 10rem;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .info .gear {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: white;
 }
 
 .media {
-    width: 100%;
-    height: 15rem;
+    width: 50%;
+    height: 10rem;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
 
 .media .social {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: white;
 }
 
 .clients {
-    width: 100%;
-    height: 15rem;
+    width: 50%;
+    height: 10rem;
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
 .clients .names {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: white;
 }
 
 .gear-info {
     background: #222;
-    height: auto;
+    height: 20rem;
+    position: relative;
+    margin-top: 10rem;
 }
 
 
