@@ -379,7 +379,7 @@ form h1 {
 }
 
 .portfolio-page .cover-art:nth-child(3) {
-    background: url('images/image2.jpg');
+    background: url('images/folder2/IMG_2109.jpg');
     background-position: center;
     background-size: cover;
 }
@@ -524,6 +524,130 @@ form h1 {
 }
 
 
+.profile2 {
+    overflow: auto;
+    width: 100%;
+    background: #fff;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 999;
+}
+
+.profile2 .banner2 {
+    width: 80%;
+    height: 30rem;
+    background: url('images/folder2/IMG_2109.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 3rem auto;
+}
+
+.profile2 .profile-info2 {
+    color: black;
+    font-size: .5rem;
+    width: 80%;
+    margin: auto;
+    margin-top: -20px;
+    position: relative;
+}
+
+.profile2 .profile-info h1 {
+    font-weight: 500;
+}
+
+.profile2 .profile-info2 img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+.profile2 .profile-info2 img:nth-child(2) {
+    margin-right: 2.5rem;
+}
+
+.profile2 .profile-info2 img:nth-child(3) {
+    margin-right: 5rem;
+}
+
+.review2 {
+    color: black;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.review-description2 {
+    width: 80%;
+    margin: 2rem auto;
+    font-weight: 500;
+}
+
+.pictures2 {
+    margin-top: 4rem;
+    width: 100%;
+    height: auto;
+}
+
+.pictures2 .img2 {
+    width: 90%;
+    height: 30rem;
+    margin: 2rem auto;
+}
+
+.pictures2 .img2:nth-child(1) {
+    background: url('images/folder2/IMG_2072.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures2 .img2:nth-child(2) {
+    background: url('images/folder2/IMG_2255.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures2 .img2:nth-child(3) {
+    background: url('images/folder2/IMG_2422.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures2 .img2:nth-child(4) {
+    background: url('images/folder2/IMG_2496.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures2 .img2:nth-child(5) {
+    background: url('images/folder2/IMG_2638.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures2 .img2:nth-child(6) {
+    background: url('images/folder2/IMG_2753.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures2 .back {
+    color: black;
+    font-size: 1rem;
+    width: 100px;
+    height: 30px;
+    padding: 1rem;
+    margin: 3rem auto;
+    font-weight: 700;
+    cursor: pointer;
+}
 
 
 
