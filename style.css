@@ -335,7 +335,6 @@ form h1 {
     left: 0;
     bottom: 0;
     right: 0;
-    z-index: 999;
 }
 
 .portfolio-page .cover-art:hover {
@@ -357,11 +356,30 @@ form h1 {
     position: relative;
 }
 
+.portfolio-page .cover-art:nth-child(2) {
+    background: url('images/image2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.portfolio-page .cover-art:nth-child(3) {
+    background: url('images/image2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.portfolio-page .cover-art:nth-child(4) {
+    background: url('images/image2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
 .portfolio-page .cover-art .client {
     position: absolute;
     bottom: 0;
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding: 1rem;
+    color: white;
 }
 
 
