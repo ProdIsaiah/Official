@@ -393,7 +393,7 @@ form h1 {
 }
 
 .profile .banner {
-    width: 90%;
+    width: 80%;
     height: 30rem;
     background: url('images/Sunset/IMG_3354.jpg');
     background-size: cover;
@@ -405,7 +405,7 @@ form h1 {
 .profile .profile-info {
     color: white;
     font-size: .5rem;
-    width: 90%;
+    width: 80%;
     margin: auto;
     margin-top: -20px;
     position: relative;
@@ -433,13 +433,63 @@ form h1 {
 }
 
 .review-description {
-    width: 90%;
+    width: 80%;
     margin: 2rem auto;
 }
 
+.pictures {
+    margin-top: 4rem;
+    width: 100%;
+    height: auto;
+}
 
+.pictures .img1 {
+    width: 90%;
+    height: 30rem;
+    margin: 2rem auto;
+}
 
+.pictures .img1:nth-child(1) {
+    background: url('images/Sunset/IMG_3073.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
+.pictures .img1:nth-child(2) {
+    background: url('images/Sunset/IMG_3146.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures .img1:nth-child(3) {
+    background: url('images/Sunset/IMG_3198.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures .img1:nth-child(4) {
+    background: url('images/Sunset/IMG_3321.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures .img1:nth-child(5) {
+    background: url('images/Sunset/IMG_3387.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures .img1:nth-child(6) {
+    background: url('images/Sunset/IMG_3358.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 
 
