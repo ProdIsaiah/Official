@@ -328,6 +328,51 @@ form h1 {
     opacity: .5;
 }
 
+.portfolio-page {
+    width: 100%;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.portfolio-page .cover-art:hover {
+    cursor: pointer;
+}
+
+.portfolio-page .title {
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    margin: 3rem;
+}
+
+.portfolio-page .cover-art {
+    width: 80%;
+    height: 30rem;
+    background: white;
+    margin: 5rem auto;
+    position: relative;
+}
+
+.portfolio-page .cover-art .client {
+    position: absolute;
+    bottom: 0;
+    font-size: 1rem;
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
