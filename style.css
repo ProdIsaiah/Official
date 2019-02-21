@@ -26,8 +26,7 @@ a {
 header {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(to bottom, rgba(0,0,0.9), transparent),
-                url('images/image2.jpg');
+    background: url('images/image2.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -223,7 +222,7 @@ header img {
 .portfolio .box1 {
     width: 25rem;
     height: 25rem;
-    background: url('images/portfolio.PNG');
+    background: url('images/portfolio.png');
     background-size: cover;
     background-position: center;
     margin: 5rem auto;
