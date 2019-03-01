@@ -398,7 +398,7 @@ form h1 {
 }
 
 .portfolio-page .cover-art:nth-child(4) {
-    background: url('images/rose.jpg');
+    background: url('images/images/IMG_4693.jpg');
     background-position: center;
     background-size: cover;
 }
@@ -527,7 +527,6 @@ form h1 {
     font-weight: 700;
     cursor: pointer;
 }
-
 
 .profile2 {
     overflow: auto;
@@ -674,6 +673,122 @@ form h1 {
     font-weight: 500;
 }
 
+.profile3 {
+    overflow: auto;
+    width: 100%;
+    background: #fff;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 999;
+}
+
+.profile3 .banner3 {
+    width: 80%;
+    height: 30rem;
+    background: url('images/images/IMG_4458.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 3rem auto;
+}
+
+.profile3 .profile-info3 {
+    color: black;
+    font-size: .5rem;
+    width: 80%;
+    margin: auto;
+    margin-top: -20px;
+}
+
+.profile3 .profile-info3 h1 {
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.profile3 .profile-info3 a  {
+    cursor: pointer;
+    float: right;
+    margin-top: -20px;
+    padding: 4px;
+}
+
+.review3 {
+    color: black;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.review-description3 {
+    width: 80%;
+    margin: 2rem auto;
+    font-weight: 500;
+}
+
+.pictures3 {
+    margin-top: 4rem;
+    width: 100%;
+    height: auto;
+}
+
+.pictures3 .img3 {
+    width: 90%;
+    height: 30rem;
+    margin: 2rem auto;
+}
+
+.pictures3 .img3:nth-child(1) {
+    background: url('images/images/IMG_4146.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures3 .img3:nth-child(2) {
+    background: url('images/images/IMG_4195.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures3 .img3:nth-child(3) {
+    background: url('images/images/IMG_4693.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures3 .img3:nth-child(4) {
+    background: url('images/images/IMG_4707.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures3 .img3:nth-child(5) {
+    background: url('images/images/IMG_4716.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures3 .img3:nth-child(6) {
+    background: url('images/images/IMG_4726-3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pictures3 .back {
+    color: black;
+    font-size: 1rem;
+    width: 100px;
+    height: 30px;
+    padding: 1rem;
+    margin: 3rem auto;
+    font-weight: 700;
+    cursor: pointer;
+}
 
 
 
